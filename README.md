@@ -174,4 +174,4 @@ Evaluate the output for:
 
 
 ## RESULT:
-Thus the Prompts were executed succcessfully .
+Thus the Prompts were executed succcessfully.
