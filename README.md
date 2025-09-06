@@ -58,7 +58,7 @@ Prompt: "When a customer asks for help, first reflect their question back to the
 The system is designed to tailor product recommendations based on user preferences such as past `posts, browsing history, and selected interests.
 For each prompt type, the AI tools (ChatGPT and Claude) are asked to analyze a social media post and predict sentiment, engagement potential, and offer insights into tone and language used.
 
-### Steps
+### Steps:
 
 ### Step 1: Define Use Case
 We are analyzing a set of social media posts to determine public sentiment, engagement levels, and actionable insights. The goal is to evaluate the effectiveness of each prompting technique on two different AI platforms: **ChatGPT** and **Claude**.
